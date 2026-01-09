@@ -3,7 +3,8 @@ Este é um projeto simples de um jogo de batalha em turnos desenvolvido em Pytho
 
 ## 📸 Demonstração
 
-![Demonstração do jogo no terminal](<img src="assets/print_jogo.png" alt="Demonstração do jogo no terminal" width="800">)
+![Demonstração do jogo no terminal]
+(<img src="assets/print_jogo.png" alt="Demonstração do jogo no terminal" width="800">)
 
 
 #### 🚀 Funcionalidades:
